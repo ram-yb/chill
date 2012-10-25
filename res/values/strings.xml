@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Chill</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="opt_freeze">Freeze</string>
+    <string name="opt_unfreeze">Unfreeze</string>
+    <string name="title_activity_display_exception">Exception</string>
+    <string name="app_description">Freeze and unfreeze applications.</string>
+
+</resources>

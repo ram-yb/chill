@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top" >
+
+    <ListView
+        android:id="@+id/mainListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true" >
+
+    </ListView>
+
+</RelativeLayout>
+<!--
+    <Button
+        android:id="@+id/btn_freeze"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:onClick="btnFreeze"
+        android:text="@string/opt_freeze" />
+
+    <Button
+        android:id="@+id/btn_unfreeze"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_freeze"
+        android:layout_centerHorizontal="true"
+        android:onClick="btnUnfreeze"
+        android:text="@string/opt_unfreeze" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_freeze"
+        android:layout_centerHorizontal="true"
+        android:text="Push the button." />
+-->
